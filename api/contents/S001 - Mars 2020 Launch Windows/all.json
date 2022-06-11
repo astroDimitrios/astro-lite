@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-11T15:04:02.536658Z",
+      "created": "2022-06-11T15:21:26.972964Z",
       "format": null,
-      "last_modified": "2022-06-11T15:04:02.536658Z",
+      "last_modified": "2022-06-11T15:21:26.972964Z",
       "mimetype": null,
       "name": "Images",
       "path": "S001 - Mars 2020 Launch Windows/Images",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-11T15:04:02.540658Z",
+      "created": "2022-06-11T15:21:26.976965Z",
       "format": null,
-      "last_modified": "2022-06-11T15:02:50.889729Z",
+      "last_modified": "2022-06-11T15:20:13.377158Z",
       "mimetype": null,
       "name": "launch.ipynb",
       "path": "S001 - Mars 2020 Launch Windows/launch.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-11T15:04:02.540658Z",
+      "created": "2022-06-11T15:21:26.976965Z",
       "format": null,
-      "last_modified": "2022-06-11T15:02:50.885729Z",
+      "last_modified": "2022-06-11T15:20:13.377158Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "S001 - Mars 2020 Launch Windows/README.md",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-11T15:04:02.540658Z",
+      "created": "2022-06-11T15:21:26.976965Z",
       "format": null,
-      "last_modified": "2022-06-11T15:02:50.889729Z",
+      "last_modified": "2022-06-11T15:20:13.377158Z",
       "mimetype": "text/csv",
       "name": "earth_mars_longs.csv",
       "path": "S001 - Mars 2020 Launch Windows/earth_mars_longs.csv",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-11T15:04:02.544658Z",
+      "created": "2022-06-11T15:21:26.976965Z",
       "format": null,
-      "last_modified": "2022-06-11T15:02:50.889729Z",
+      "last_modified": "2022-06-11T15:20:13.377158Z",
       "mimetype": null,
       "name": "launchTeacher.ipynb",
       "path": "S001 - Mars 2020 Launch Windows/launchTeacher.ipynb",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-11T15:04:02.544658Z",
+  "created": "2022-06-11T15:21:26.976965Z",
   "format": "json",
-  "last_modified": "2022-06-11T15:04:02.544658Z",
+  "last_modified": "2022-06-11T15:21:26.976965Z",
   "mimetype": null,
   "name": "S001 - Mars 2020 Launch Windows",
   "path": "S001 - Mars 2020 Launch Windows",

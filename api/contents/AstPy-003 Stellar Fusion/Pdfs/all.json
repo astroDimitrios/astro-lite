@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-11T15:04:02.524659Z",
+      "created": "2022-06-11T15:21:26.956963Z",
       "format": null,
-      "last_modified": "2022-06-11T15:02:50.865729Z",
+      "last_modified": "2022-06-11T15:20:13.357158Z",
       "mimetype": "application/pdf",
       "name": "atomic_mass_abund.pdf",
       "path": "AstPy-003 Stellar Fusion/Pdfs/atomic_mass_abund.pdf",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-11T15:04:02.524659Z",
+      "created": "2022-06-11T15:21:26.956963Z",
       "format": null,
-      "last_modified": "2022-06-11T15:02:50.865729Z",
+      "last_modified": "2022-06-11T15:20:13.353158Z",
       "mimetype": "application/pdf",
       "name": "The_Physics_of_Inertial_Fusion_CH1.pdf",
       "path": "AstPy-003 Stellar Fusion/Pdfs/The_Physics_of_Inertial_Fusion_CH1.pdf",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-11T15:04:02.524659Z",
+      "created": "2022-06-11T15:21:26.960963Z",
       "format": null,
-      "last_modified": "2022-06-11T15:02:50.869729Z",
+      "last_modified": "2022-06-11T15:20:13.357158Z",
       "mimetype": "application/pdf",
       "name": "shatz_fusion.pdf",
       "path": "AstPy-003 Stellar Fusion/Pdfs/shatz_fusion.pdf",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-11T15:04:02.516659Z",
+      "created": "2022-06-11T15:21:26.952962Z",
       "format": null,
-      "last_modified": "2022-06-11T15:02:50.865729Z",
+      "last_modified": "2022-06-11T15:20:13.353158Z",
       "mimetype": "application/pdf",
       "name": "2017Wang10.pdf",
       "path": "AstPy-003 Stellar Fusion/Pdfs/2017Wang10.pdf",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-11T15:04:02.524659Z",
+  "created": "2022-06-11T15:21:26.956963Z",
   "format": "json",
-  "last_modified": "2022-06-11T15:04:02.524659Z",
+  "last_modified": "2022-06-11T15:21:26.956963Z",
   "mimetype": null,
   "name": "Pdfs",
   "path": "AstPy-003 Stellar Fusion/Pdfs",
