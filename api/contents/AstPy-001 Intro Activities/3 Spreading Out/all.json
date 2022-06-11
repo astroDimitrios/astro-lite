@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.542793Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.344876Z",
+      "mimetype": null,
+      "name": "3 Spreading Out.ipynb",
+      "path": "AstPy-001 Intro Activities/3 Spreading Out/3 Spreading Out.ipynb",
+      "size": 38484,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.542793Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.344876Z",
+      "mimetype": null,
+      "name": "3 Spreading Out Teacher.ipynb",
+      "path": "AstPy-001 Intro Activities/3 Spreading Out/3 Spreading Out Teacher.ipynb",
+      "size": 45618,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-11T14:53:07.542793Z",
+  "format": "json",
+  "last_modified": "2022-06-11T14:53:07.542793Z",
+  "mimetype": null,
+  "name": "3 Spreading Out",
+  "path": "AstPy-001 Intro Activities/3 Spreading Out",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

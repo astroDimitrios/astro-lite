@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.566795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.376877Z",
+      "mimetype": "image/jpeg",
+      "name": "mars_launch.jpg",
+      "path": "S001 - Mars 2020 Launch Windows/Images/mars_launch.jpg",
+      "size": 292697,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.566795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.376877Z",
+      "mimetype": "image/jpeg",
+      "name": "hohmann_transfer.jpg",
+      "path": "S001 - Mars 2020 Launch Windows/Images/hohmann_transfer.jpg",
+      "size": 294959,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.566795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.372877Z",
+      "mimetype": "image/jpeg",
+      "name": "helio_long_2.jpg",
+      "path": "S001 - Mars 2020 Launch Windows/Images/helio_long_2.jpg",
+      "size": 297097,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.570795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.380877Z",
+      "mimetype": "image/png",
+      "name": "perseverance_artist.png",
+      "path": "S001 - Mars 2020 Launch Windows/Images/perseverance_artist.png",
+      "size": 859427,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.562795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.372877Z",
+      "mimetype": "image/jpeg",
+      "name": "NASAJPL_windows.jpg",
+      "path": "S001 - Mars 2020 Launch Windows/Images/NASAJPL_windows.jpg",
+      "size": 187773,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-11T14:53:07.566795Z",
+  "format": "json",
+  "last_modified": "2022-06-11T14:53:07.566795Z",
+  "mimetype": null,
+  "name": "Images",
+  "path": "S001 - Mars 2020 Launch Windows/Images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

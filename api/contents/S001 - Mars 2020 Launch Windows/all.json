@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.566795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:53:07.566795Z",
+      "mimetype": null,
+      "name": "Images",
+      "path": "S001 - Mars 2020 Launch Windows/Images",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.574795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.380877Z",
+      "mimetype": null,
+      "name": "launch.ipynb",
+      "path": "S001 - Mars 2020 Launch Windows/launch.ipynb",
+      "size": 17872,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.570795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.380877Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "S001 - Mars 2020 Launch Windows/README.md",
+      "size": 1276,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.570795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.380877Z",
+      "mimetype": "text/csv",
+      "name": "earth_mars_longs.csv",
+      "path": "S001 - Mars 2020 Launch Windows/earth_mars_longs.csv",
+      "size": 271293,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.574795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.380877Z",
+      "mimetype": null,
+      "name": "launchTeacher.ipynb",
+      "path": "S001 - Mars 2020 Launch Windows/launchTeacher.ipynb",
+      "size": 36524,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-11T14:53:07.574795Z",
+  "format": "json",
+  "last_modified": "2022-06-11T14:53:07.574795Z",
+  "mimetype": null,
+  "name": "S001 - Mars 2020 Launch Windows",
+  "path": "S001 - Mars 2020 Launch Windows",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

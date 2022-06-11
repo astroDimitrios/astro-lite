@@ -1,0 +1,133 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.562795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.368877Z",
+      "mimetype": "image/png",
+      "name": "ppCoulombBarrier.png",
+      "path": "AstPy-003 Stellar Fusion/ppCoulombBarrier.png",
+      "size": 32774,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.562795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.364877Z",
+      "mimetype": null,
+      "name": "fusion.ipynb",
+      "path": "AstPy-003 Stellar Fusion/fusion.ipynb",
+      "size": 29931,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.562795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.368877Z",
+      "mimetype": "text/csv",
+      "name": "mass16.csv",
+      "path": "AstPy-003 Stellar Fusion/mass16.csv",
+      "size": 230267,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.558794Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.364877Z",
+      "mimetype": "video/quicktime",
+      "name": "bindingEnergyperNLOG.mov",
+      "path": "AstPy-003 Stellar Fusion/bindingEnergyperNLOG.mov",
+      "size": 660614,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.562795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.368877Z",
+      "mimetype": "text/csv",
+      "name": "mass16Abundant.csv",
+      "path": "AstPy-003 Stellar Fusion/mass16Abundant.csv",
+      "size": 7066,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.562795Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.368877Z",
+      "mimetype": null,
+      "name": "fusionTeacher.ipynb",
+      "path": "AstPy-003 Stellar Fusion/fusionTeacher.ipynb",
+      "size": 100129,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.546794Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.344876Z",
+      "mimetype": "text/x-python",
+      "name": "CB.py",
+      "path": "AstPy-003 Stellar Fusion/CB.py",
+      "size": 3139,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.546794Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.344876Z",
+      "mimetype": "text/x-python",
+      "name": "BE.py",
+      "path": "AstPy-003 Stellar Fusion/BE.py",
+      "size": 6679,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.558794Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.364877Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "AstPy-003 Stellar Fusion/README.md",
+      "size": 1171,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.554794Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:53:07.554794Z",
+      "mimetype": null,
+      "name": "Pdfs",
+      "path": "AstPy-003 Stellar Fusion/Pdfs",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-11T14:53:07.562795Z",
+  "format": "json",
+  "last_modified": "2022-06-11T14:53:07.562795Z",
+  "mimetype": null,
+  "name": "AstPy-003 Stellar Fusion",
+  "path": "AstPy-003 Stellar Fusion",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

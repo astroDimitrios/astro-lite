@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.554794Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.360877Z",
+      "mimetype": "application/pdf",
+      "name": "atomic_mass_abund.pdf",
+      "path": "AstPy-003 Stellar Fusion/Pdfs/atomic_mass_abund.pdf",
+      "size": 21101,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.554794Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.360877Z",
+      "mimetype": "application/pdf",
+      "name": "The_Physics_of_Inertial_Fusion_CH1.pdf",
+      "path": "AstPy-003 Stellar Fusion/Pdfs/The_Physics_of_Inertial_Fusion_CH1.pdf",
+      "size": 263795,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.554794Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.364877Z",
+      "mimetype": "application/pdf",
+      "name": "shatz_fusion.pdf",
+      "path": "AstPy-003 Stellar Fusion/Pdfs/shatz_fusion.pdf",
+      "size": 735197,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.550794Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.356876Z",
+      "mimetype": "application/pdf",
+      "name": "2017Wang10.pdf",
+      "path": "AstPy-003 Stellar Fusion/Pdfs/2017Wang10.pdf",
+      "size": 2360724,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-11T14:53:07.554794Z",
+  "format": "json",
+  "last_modified": "2022-06-11T14:53:07.554794Z",
+  "mimetype": null,
+  "name": "Pdfs",
+  "path": "AstPy-003 Stellar Fusion/Pdfs",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

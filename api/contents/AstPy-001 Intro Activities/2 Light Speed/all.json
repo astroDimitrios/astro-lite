@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.542793Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.344876Z",
+      "mimetype": null,
+      "name": "2 Light Speed.ipynb",
+      "path": "AstPy-001 Intro Activities/2 Light Speed/2 Light Speed.ipynb",
+      "size": 20435,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T14:53:07.542793Z",
+      "format": null,
+      "last_modified": "2022-06-11T14:51:41.344876Z",
+      "mimetype": null,
+      "name": "2 Light Speed Teacher.ipynb",
+      "path": "AstPy-001 Intro Activities/2 Light Speed/2 Light Speed Teacher.ipynb",
+      "size": 25453,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-11T14:53:07.542793Z",
+  "format": "json",
+  "last_modified": "2022-06-11T14:53:07.542793Z",
+  "mimetype": null,
+  "name": "2 Light Speed",
+  "path": "AstPy-001 Intro Activities/2 Light Speed",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
