@@ -22,3 +22,4 @@ theme-darcula
 skyfield
 astropy
 astroedu
+nbgitpuller
