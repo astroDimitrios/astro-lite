@@ -1,0 +1,121 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-11T11:56:41.553108Z",
+      "format": null,
+      "last_modified": "2022-06-11T11:56:41.553108Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T11:56:41.553108Z",
+      "format": null,
+      "last_modified": "2022-06-11T11:55:19.135516Z",
+      "mimetype": null,
+      "name": "javascript.ipynb",
+      "path": "javascript.ipynb",
+      "size": 2179,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T11:56:41.561108Z",
+      "format": null,
+      "last_modified": "2022-06-11T11:56:41.561108Z",
+      "mimetype": null,
+      "name": "pyolite",
+      "path": "pyolite",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T11:56:41.561108Z",
+      "format": null,
+      "last_modified": "2022-06-11T11:55:19.139516Z",
+      "mimetype": null,
+      "name": "python.ipynb",
+      "path": "python.ipynb",
+      "size": 12962,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T11:56:41.561108Z",
+      "format": null,
+      "last_modified": "2022-06-11T11:56:41.561108Z",
+      "mimetype": null,
+      "name": "xeus-lua",
+      "path": "xeus-lua",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T11:56:41.565109Z",
+      "format": null,
+      "last_modified": "2022-06-11T11:56:41.565109Z",
+      "mimetype": null,
+      "name": "xeus-sqlite",
+      "path": "xeus-sqlite",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T11:56:41.553108Z",
+      "format": null,
+      "last_modified": "2022-06-11T11:55:19.135516Z",
+      "mimetype": null,
+      "name": "p5.ipynb",
+      "path": "p5.ipynb",
+      "size": 3717,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T11:56:41.549108Z",
+      "format": null,
+      "last_modified": "2022-06-11T11:56:38.657053Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "README.md",
+      "size": 941,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-11T11:56:41.565109Z",
+      "format": null,
+      "last_modified": "2022-06-11T11:56:41.565109Z",
+      "mimetype": null,
+      "name": "xeus-wren",
+      "path": "xeus-wren",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-11T11:56:41.565109Z",
+  "format": "json",
+  "last_modified": "2022-06-11T11:56:41.565109Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
